@@ -1,0 +1,23 @@
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 80px;
+    border-bottom: 1px solid #cccccc;
+}
+.logo{
+    font-size: 26px;
+    font-style: italic;
+}
+h1{
+    font-size: 26px;
+    font-style: italic;
+}
+footer{
+    margin-top: 450px;
+}
